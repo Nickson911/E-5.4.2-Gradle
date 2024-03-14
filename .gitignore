@@ -4,3 +4,6 @@ out/
 build/
 gradle/
 .idea/
+api/build
+db/build
+service/build
